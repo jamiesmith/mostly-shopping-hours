@@ -1,7 +1,7 @@
 {
-  "name": "mostly-working-hours",
+  "name": "mostly-shopping-hours",
   "version": "1.0.0",
-  "description": "Call a callback mostly during normal working hours",
+  "description": "Call a callback mostly during normal shopping hours",
   "main": "index.js",
   "dependencies": {
     "is-it-weekend": "^1.0.0"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/watson/mostly-working-hours.git"
+    "url": "git+https://github.com/jamiesmith/mostly-shopping-hours.git"
   },
   "keywords": [
     "random",
@@ -23,14 +23,15 @@
     "weekday",
     "weekend",
     "odds",
-    "callback"
+    "callback",
+		"shopping"
   ],
-  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "author": "Jamie Smith <github@jamieandamy.com> (https://twitter.com/jamiesmithnc)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/watson/mostly-working-hours/issues"
+    "url": "https://github.com/jamiesmith/mostly-shopping-hours/issues"
   },
-  "homepage": "https://github.com/watson/mostly-working-hours#readme",
+  "homepage": "https://github.com/jamiesmith/mostly-shopping-hours#readme",
   "coordinates": [
     55.68103929999999,
     12.5643569
